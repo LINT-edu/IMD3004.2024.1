@@ -1,6 +1,3 @@
-Aqui está o **README** atualizado com a seção sobre o projeto final:  
-
----
 
 ### README para Curso de Inteligência Artificial Generativa
 
