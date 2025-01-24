@@ -1,7 +1,5 @@
 
-### README para Curso de Inteligência Artificial Generativa
-
-# 📚 Curso de Inteligência Artificial Generativa
+# 📚 Inteligência Artificial Generativa
 
 Este repositório contém o material didático do curso de **Inteligência Artificial Generativa**, uma área emergente da IA que explora técnicas para criar conteúdos como texto, imagens, áudio e vídeo. Combinando conceitos de aprendizado profundo e modelos probabilísticos, a IA generativa está transformando setores como arte, entretenimento, saúde e muito mais. Este curso foi elaborado para proporcionar uma base sólida nos conceitos teóricos e habilidades práticas necessárias para trabalhar com IA generativa.
 
@@ -9,10 +7,11 @@ Este repositório contém o material didático do curso de **Inteligência Artif
 
 ## 📋 Informações do Curso
 
-- **Instituição**: [Nome da Instituição]  
-- **Docente**: [Nome do Professor(a)]  
-- **Semestre**: [Semestre Letivo]  
-- **Código da Disciplina**: [Código da Disciplina]  
+- **Instituição**: Universidade Federal do Rio Grande do Norte  
+- **Docente**: Prof. Dr. Andre Fonseca
+- **Curso**: Bacharelado em Inteligência Artificial (BIA)
+- **Periodo**: 7 Periodo  
+- **Código da Disciplina**: IMD3004
 
 ---
 
